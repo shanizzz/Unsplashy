@@ -9,7 +9,7 @@ This Python script allows you to download images from Unsplash based on a search
    
    You can install them using pip:
    
-   pip install requests
+   'pip install requests'
 4. Run the Script: Run the script by executing the following command in your terminal:
    
    python unsplashy.py
