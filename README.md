@@ -12,6 +12,7 @@ This Python script allows you to download images from Unsplash based on a search
 4. Follow the Prompts: Enter your search query, the number of images you want to download, and the desired resolution when prompted.
    Example:
    Enter your search query: nature
+
    How many images would you like to download? 5
 
    Enter the resolution (e.g., 1920x1080): 1920x1080
